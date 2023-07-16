@@ -1,71 +1,7 @@
+# EBAY LAPTOP TRASH MAGIC SERVER! 
 
-[FOLLOW TRASH ROBOT ON MASTODON!](https://kolektiva.social/@trashrobot)
+[LINK TO BUY A LINUX FROM AN EBAY VENDOR(WE ARE USING UBUNTU)](https://www.ebay.com/itm/195365970237)
 
-[WWW.TRASHROBOT.ORG](HTTPS://WWW.TRASHROBOT.ORG/)
-
-[READ THE BOOK OF TRASH!](HTTPS://TRASHBOOK.TRASHROBOT.ORG/)
-
-[FOLLOW TRASH ROBOT ON TIKTOK!](https://www.tiktok.com/@trash_robot)
-
-[EMAIL TRASH ROBOT!](mailto:operator@sloanslake.art)
-
-
-![](https://raw.githubusercontent.com/LafeLabs/HYPERSIGN/main/trashmagic/HYPERSIGN.png)
-
-![](https://raw.githubusercontent.com/LafeLabs/HYPERSIGN/main/trashmagic/CSS.png)
-
-![](https://raw.githubusercontent.com/LafeLabs/HYPERSIGN/main/trashmagic/ARRAY.png)
-
-![](https://raw.githubusercontent.com/LafeLabs/HYPERSIGN/main/trashmagic/SIGNSTACK.png)
-
-![](https://raw.githubusercontent.com/LafeLabs/HYPERSIGN/main/trashmagic/META.png)
-
-
-![](https://raw.githubusercontent.com/LafeLabs/HYPERSIGN/main/trashmagic/STARBUCKS.png)
-
-
-![](https://raw.githubusercontent.com/LafeLabs/HYPERSIGN/main/trashmagic/MEMEFEED.png)
-
-![](https://raw.githubusercontent.com/LafeLabs/HYPERSIGN/main/trashmagic/INTERNETOFTRASH.png)
-
-
-![](https://raw.githubusercontent.com/LafeLabs/HYPERSIGN/main/trashmagic/TRASHPHONEFEED.png)
-
-![](https://raw.githubusercontent.com/LafeLabs/HYPERSIGN/main/trashmagic/SOUTHPLATTE.png)
-
-
-![](https://raw.githubusercontent.com/LafeLabs/HYPERSIGN/main/trashmagic/SBUX.png)
-
-![](https://raw.githubusercontent.com/LafeLabs/HYPERSIGN/main/trashmagic/RECURSION.png)
-
-![](https://raw.githubusercontent.com/LafeLabs/HYPERSIGN/main/trashmagic/STONE.png)
-
-![](https://raw.githubusercontent.com/LafeLabs/HYPERSIGN/main/trashmagic/NETWORK.png)
-
-![](https://raw.githubusercontent.com/LafeLabs/HYPERSIGN/main/trashmagic/CYBERTRASH.png)
-
-![](https://raw.githubusercontent.com/LafeLabs/HYPERSIGN/main/trashmagic/ANTICLOUD.png)
-
-![](https://raw.githubusercontent.com/LafeLabs/HYPERSIGN/main/trashmagic/FREERIDE.png)
-
-
-REPLICATOR URL:
-
-```
-https://raw.githubusercontent.com/LafeLabs/HYPERSIGN/main/php/replicator.txt
-```
-
-# [CARDBOARD HYPERSIGN!](https://github.com/lafeLabs/HYPERSIGN)
-
-# [WWW.SOUTHPLATTE.NET](https://www.southplatte.net)
-
-# [LOCALHOST](http://localhost)
-
-AS ABOVE, SO BELOW: THE CARDBOARD POINTS TO THE HTML, THE HTML POINTS TO THE CARDBOARD.
-
-THE CARDBOARD SIGN IS HYPERTEXT.  IT IS AN EXTENSION OF HTML FROM THE BROWSER OUT TO THE STREETS.  HYPER TRASH MARKUP LANGUAGE IS AN EXTENTION OF HYPERTEXT MARKUP LANGUAGE. THE VOICE OF THE STREETS.
-
-TO BUILD A NEW TRASH MAGIC SERVER FIND A COMPUTER FROM A WASTE STREAM, COPY OFF ANY INFORMATION ANYONE WANTS TO KEEP, WIPE THE HARD DRIVE, AND INSTALL [UBUNTU](https://ubuntu.com/desktop) OR SOME OTHER FORM OF LINUX.
 
 OPEN A TERMINAL AND COPY PASTE THE FOLLOWING!
 
@@ -83,6 +19,9 @@ cd html
 php replicator.php
 sudo chmod -R 0777 *
 ```
+
+
+
 GO PUT YOUR SERVER ON LOCAL NETWORKS, FIND THE IP ADDRESS, AND POST UP LINKS TO IT FROM PUBLIC TRASH MAGIC PAGES OR FROM QR CODES!  SHARE THE MEMES! SHARE THE MEDIA! SHARE THE SONGS! SHARE THE WEB!  
 
 WE WILL BUILD A TRULY FREE NETWORK! A NETWORK WITHOUT PROPERTY! A NETWORK WITHOUT DATA! A NETWORK WITHOUT USERS! A NETWORK OF SELF-REPLICATING INFORMATION!  
